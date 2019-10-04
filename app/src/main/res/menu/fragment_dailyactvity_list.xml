@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_plate"
+        android:icon="@drawable/ic_plus_menu"
+        android:title="@string/new_dailyactivity"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/display_help"
+        android:title="@string/Uhelp"
+        app:showAsAction="ifRoom"/>
+
+</menu>

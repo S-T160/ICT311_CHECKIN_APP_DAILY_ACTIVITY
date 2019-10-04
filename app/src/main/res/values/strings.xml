@@ -1,0 +1,17 @@
+<resources>
+    <string name="Daily_Activity">Daily Activity</string>
+    <string name="Title">Title of the activity</string>
+    <string name="Place">Name of the place </string>
+    <string name="Detail">Detail of activity</string>
+    <string name="Location">location activity took place</string>
+    <string name="Date">Date of activity</string>
+    <string name="Send">Send</string>
+    <string name="Cancel">Cancel</string>
+    <string name="date_picker">picking date</string>
+    <string name="new_dailyactivity">new dailyactivity</string>
+    <string name="display_help">show help</string>
+    <string name="subtitle_hide">hiding_subtitle</string>
+    <string name="change_subtitle">changing_dailyactivity</string>
+    <string name="Uhelp">help</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
